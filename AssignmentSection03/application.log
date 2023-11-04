@@ -1,0 +1,139 @@
+2021-09-08 04:10:59,404  INFO [main] LoginPage:77 - User name enterd as admin
+2021-09-08 04:11:00,225  INFO [main] HomePage:45 - Validated Logo
+2021-09-08 04:11:19,570  INFO [main] LoginPage:77 - User name enterd as trainee
+2021-09-08 04:11:20,334  INFO [main] HomePage:45 - Validated Logo
+2021-09-08 08:53:06,057  INFO [main] LoginPage:77 - User name enterd as admin
+2021-09-08 08:53:06,958  INFO [main] HomePage:45 - Validated Logo
+2021-09-08 08:53:24,330  INFO [main] LoginPage:77 - User name enterd as trainee
+2021-09-08 08:53:25,237  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:22:47,345  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:28:26,216  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:29:22,466 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-05-31 10:29:22,469 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-05-31 10:29:22,469 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-05-31 10:29:22,469 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-05-31 10:29:22,469 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/s.kadigamugedara_exa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-05-31 10:29:22,766 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-05-31 10:29:22,766 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-05-31 10:29:22,768 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-05-31 10:29:22,768 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-05-31 10:29:22,768 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/s.kadigamugedara_exa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-05-31 10:40:12,916  INFO [main] LoginPage:77 - User name enterd as admin
+2023-05-31 10:40:13,214  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:40:30,253  INFO [main] LoginPage:77 - User name enterd as trainee
+2023-05-31 10:40:30,530  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:41:56,677  INFO [main] LoginPage:77 - User name enterd as admin
+2023-05-31 10:41:56,922  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:42:13,645  INFO [main] LoginPage:77 - User name enterd as trainee
+2023-05-31 10:42:13,868  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:45:31,363  INFO [main] LoginPage:77 - User name enterd as admin
+2023-05-31 10:45:31,569  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:45:45,805  INFO [main] LoginPage:77 - User name enterd as trainee
+2023-05-31 10:45:45,980  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:50:18,999 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-05-31 10:50:19,001 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-05-31 10:50:19,003 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-05-31 10:50:19,005 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-05-31 10:50:19,006 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/s.kadigamugedara_exa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-05-31 10:50:19,185 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-05-31 10:50:19,186 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-05-31 10:50:19,186 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-05-31 10:50:19,187 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-05-31 10:50:19,187 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/s.kadigamugedara_exa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-05-31 10:53:32,658  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:59:19,574  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 11:01:51,106  INFO [main] LoginPage:77 - User name enterd as admin
+2023-05-31 11:01:51,384  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 11:02:11,222  INFO [main] LoginPage:77 - User name enterd as trainee
+2023-05-31 11:02:11,492  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 11:04:28,851  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 11:06:02,039  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 11:07:02,106 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-05-31 11:07:02,106 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-05-31 11:07:02,106 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-05-31 11:07:02,106 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-05-31 11:07:02,106 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/s.kadigamugedara_exa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-05-31 11:07:02,504 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-05-31 11:07:02,513 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-05-31 11:07:02,513 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-05-31 11:07:02,513 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-05-31 11:07:02,513 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/s.kadigamugedara_exa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-11-03 20:14:01,986  INFO [main] LoginPage:77 - User name enterd as admin
+2023-11-03 20:14:03,917  INFO [main] HomePage:45 - Validated Logo
+2023-11-03 20:14:52,544  INFO [main] LoginPage:77 - User name enterd as trainee
+2023-11-03 20:14:52,802  INFO [main] HomePage:45 - Validated Logo
+2023-11-03 20:17:19,597  INFO [main] LoginPage:77 - User name enterd as gallagesanka03@gmail.com
+2023-11-03 20:17:19,883  INFO [main] HomePage:45 - Validated Logo
+2023-11-03 20:17:32,203  INFO [main] LoginPage:77 - User name enterd as trainee
+2023-11-03 20:17:32,460  INFO [main] HomePage:45 - Validated Logo
+2023-11-03 21:06:15,047  INFO [main] LoginPage:77 - User name enterd as gallagesanka03@gmail.com
+2023-11-03 21:06:15,334  INFO [main] HomePage:45 - Validated Logo
+2023-11-03 21:07:02,420  INFO [main] LoginPage:77 - User name enterd as trainee
+2023-11-03 21:07:02,810  INFO [main] HomePage:45 - Validated Logo
+2023-11-04 02:12:34,336  INFO [main] UsersPage:46 - First name entered as Yadeesha
+2023-11-04 02:15:06,711  INFO [main] UsersPage:46 - First name entered as Yadeesha
+2023-11-04 02:16:49,580  INFO [main] UsersPage:46 - First name entered as Yadeesha
+2023-11-04 02:16:49,750  INFO [main] UsersPage:53 - First name entered as Weerasinghe
+2023-11-04 02:16:49,930  INFO [main] UsersPage:60 - Email entered as yadeesha@gmail.com
+2023-11-04 02:16:50,046  INFO [main] UsersPage:65 - New user create button click!
+2023-11-04 02:17:44,840  INFO [main] UsersPage:46 - First name entered as Yadeesha
+2023-11-04 02:17:45,049  INFO [main] UsersPage:53 - First name entered as Weerasinghe
+2023-11-04 02:17:45,251  INFO [main] UsersPage:60 - Email entered as yadeesha@gmail.com
+2023-11-04 02:17:45,370  INFO [main] UsersPage:65 - New user create button click!
+2023-11-04 02:18:47,842  INFO [main] UsersPage:46 - First name entered as Yadeesha
+2023-11-04 02:18:48,019  INFO [main] UsersPage:53 - First name entered as Weerasinghe
+2023-11-04 02:18:48,192  INFO [main] UsersPage:60 - Email entered as yadeesha@gmail.com
+2023-11-04 02:18:48,296  INFO [main] UsersPage:65 - New user create button click!
+2023-11-04 02:20:57,042  INFO [main] UsersPage:46 - First name entered as Yadeesha
+2023-11-04 02:20:57,230  INFO [main] UsersPage:53 - First name entered as Weerasinghe
+2023-11-04 02:20:57,403  INFO [main] UsersPage:60 - Email entered as yadeesha@gmail.com
+2023-11-04 02:20:57,512  INFO [main] UsersPage:65 - New user create button click!
+2023-11-04 03:13:15,887  INFO [main] UsersPage:46 - First name entered as Yadeesha
+2023-11-04 03:13:16,075  INFO [main] UsersPage:53 - First name entered as Weerasinghe
+2023-11-04 03:13:16,269  INFO [main] UsersPage:60 - Email entered as yadeesha@gmail.com
+2023-11-04 03:13:16,395  INFO [main] UsersPage:65 - New user create button click!
+2023-11-04 12:16:58,932  INFO [main] UsersPage:46 - First name entered as Chandika
+2023-11-04 12:16:59,138  INFO [main] UsersPage:53 - First name entered as Gallage
+2023-11-04 12:16:59,343  INFO [main] UsersPage:60 - Email entered as chandika@gmail.com
+2023-11-04 12:16:59,462  INFO [main] UsersPage:65 - New user create button click!
+2023-11-04 12:18:26,971  INFO [main] UsersPage:46 - First name entered as Chandika
+2023-11-04 12:18:27,166  INFO [main] UsersPage:53 - First name entered as Gallage
+2023-11-04 12:18:27,361  INFO [main] UsersPage:60 - Email entered as chandika@gmail.com
+2023-11-04 12:18:27,476  INFO [main] UsersPage:65 - New user create button click!
+2023-11-04 12:19:04,418  INFO [main] UsersPage:46 - First name entered as Chandika
+2023-11-04 12:19:04,621  INFO [main] UsersPage:53 - First name entered as Gallage
+2023-11-04 12:19:04,835  INFO [main] UsersPage:60 - Email entered as chandika@gmail.com
+2023-11-04 12:19:04,950  INFO [main] UsersPage:65 - New user create button click!
+2023-11-04 12:49:40,603  INFO [main] UsersPage:46 - First name entered as Chandika
+2023-11-04 12:49:40,790  INFO [main] UsersPage:53 - First name entered as Gallage
+2023-11-04 12:49:40,998  INFO [main] UsersPage:60 - Email entered as chandika@gmail.com
+2023-11-04 12:49:41,112  INFO [main] UsersPage:65 - New user create button click!
+2023-11-04 14:49:43,150  INFO [main] UsersPage:46 - First name entered as Chandika
+2023-11-04 14:49:43,337  INFO [main] UsersPage:53 - First name entered as Gallage
+2023-11-04 14:49:43,529  INFO [main] UsersPage:60 - Email entered as chandika@gmail.com
+2023-11-04 14:49:43,633  INFO [main] UsersPage:65 - New user create button click!
+2023-11-04 15:11:43,309  INFO [main] UsersPage:49 - First name entered as Chandika
+2023-11-04 15:11:43,512  INFO [main] UsersPage:56 - First name entered as Gallage
+2023-11-04 15:11:43,727  INFO [main] UsersPage:63 - Email entered as chandika@gmail.com
+2023-11-04 15:11:43,840  INFO [main] UsersPage:68 - New user create button click!
+2023-11-04 15:11:45,537  INFO [main] ActitimeStepDefinitions:102 - User created successfully with first name Chandika and last name Gallage
+2023-11-04 17:32:04,977  INFO [main] UsersPage:49 - First name entered as Chandika
+2023-11-04 17:32:05,205  INFO [main] UsersPage:56 - First name entered as Gallage
+2023-11-04 17:32:05,429  INFO [main] UsersPage:63 - Email entered as chandika@gmail.com
+2023-11-04 17:32:05,550  INFO [main] UsersPage:68 - New user create button click!
+2023-11-04 17:32:05,596 FATAL [main] ActitimeStepDefinitions:104 - User creation failed
+2023-11-04 17:34:14,649  INFO [main] UsersPage:49 - First name entered as Chandika
+2023-11-04 17:34:14,831  INFO [main] UsersPage:56 - First name entered as Gallage
+2023-11-04 17:34:15,016  INFO [main] UsersPage:63 - Email entered as chandika@gmail.com
+2023-11-04 17:34:15,159  INFO [main] UsersPage:68 - New user create button click!
+2023-11-04 17:34:16,389  INFO [main] ActitimeStepDefinitions:102 - User created successfully with first name Chandika and last name Gallage
+2023-11-04 17:45:48,985  INFO [main] UsersPage:49 - First name entered as Chandika
+2023-11-04 17:45:49,169  INFO [main] UsersPage:56 - First name entered as Gallage
+2023-11-04 17:45:49,352  INFO [main] UsersPage:63 - Email entered as chandika@gmail.com
+2023-11-04 17:45:49,452  INFO [main] UsersPage:68 - New user create button click!
+2023-11-04 17:45:50,616 FATAL [main] ActitimeStepDefinitions:104 - User creation failed
+2023-11-04 17:48:37,672  INFO [main] UsersPage:49 - First name entered as Chandika
+2023-11-04 17:48:37,870  INFO [main] UsersPage:56 - First name entered as Gallage
+2023-11-04 17:48:38,075  INFO [main] UsersPage:63 - Email entered as chandika@gmail.com
+2023-11-04 17:48:38,186  INFO [main] UsersPage:68 - New user create button click!
+2023-11-04 17:48:39,361  INFO [main] ActitimeStepDefinitions:102 - User created successfully with first name Chandika and last name Gallage
